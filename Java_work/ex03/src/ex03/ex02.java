@@ -12,7 +12,7 @@ public class ex02 {
 	int b;
 	
 	//무엇인가를 입력받아서 사용할때 쓰는 문법
-	Scanner sca= new Scanner(System.in);
+	Scanner scan= new Scanner(System.in);
 	System.out.println("숫자입력");
 	
 	a = scan.nextInt();
@@ -21,5 +21,4 @@ public class ex02 {
 	b = scan.nextInt();
 	System.out.println("b = "+b);
 	}
-
-	
+}

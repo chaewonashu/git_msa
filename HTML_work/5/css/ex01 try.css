@@ -1,0 +1,9 @@
+table, td, th {
+    border:1px solid #ccc;
+  }
+
+  tr,th {
+
+    padding: 20px;
+    
+  }

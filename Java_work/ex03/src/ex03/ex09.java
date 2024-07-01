@@ -4,7 +4,7 @@ public class ex09 {
 	public static void main(String[] args) {
 		
 		short num1 =10;
-		num1 = (short)(num+87L);
+		num1 = (short)(num1+87L);
 		
 		System.out.println(num1);
 		
